@@ -1,5 +1,5 @@
 # Smart-City-Insights: Uncovering-Urban-Mobility-Patterns-from-Uber-Location-Data 
-
+![Urban-Mobility-Pattern](https://github.com/shaibubenjamin/Machine-Learning-for-Urban-Mobility-Analysis/blob/a7e16bafbdf7d30c0a1f6a7a192d2f0e1a61be0d/Cluster%20distribution.PNG) 
 This repository contains a project analyzing urban mobility patterns using machine learning techniques. The goal is to cluster regions based on mobility data to provide actionable insights into urban movement patterns.
 
 ## Table of Contents
@@ -11,6 +11,7 @@ This repository contains a project analyzing urban mobility patterns using machi
 ## Project Overview
 Urban mobility analysis is crucial for understanding how people move within a city. This project leverages machine learning algorithms (k-means clustering) to analyze mobility data and generate clusters representing areas with similar patterns of movement. The results can help urban planners and policymakers improve transportation systems, reduce congestion, and optimize urban design.
 
+![Visual plot](https://github.com/shaibubenjamin/Machine-Learning-for-Urban-Mobility-Analysis/blob/a7e16bafbdf7d30c0a1f6a7a192d2f0e1a61be0d/Geographic%20clusters.PNG) 
 ## Data
 The dataset used in this project includes urban mobility data, which consists of geographic coordinates and timestamps. The data is preprocessed to remove noise and anomalies, making it suitable for clustering analysis.
 
